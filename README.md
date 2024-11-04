@@ -18,7 +18,8 @@ Este é um jogo da memória simples desenvolvido com HTML, CSS e JavaScript. O o
    src/ 
    
    ├── styles/  
-   │ ├── reset.css # Reset padrão para o CSS 
+   │ ├── reset.css # Reset padrão para o CSS  
+ 
    │ └── main.css # Estilos principais do jogo 
    
    └── scripts/ 
