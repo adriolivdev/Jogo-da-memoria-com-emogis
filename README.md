@@ -20,7 +20,7 @@ Este é um jogo da memória simples desenvolvido com HTML, CSS e JavaScript. O o
    │         ├── reset.css # Reset padrão para o CSS  
    │         └── main.css # Estilos principais do jogo 
    
-   └── scripts/ 
+   └── scripts/
              └── engine.js # Lógica do jogo da memória index.html # Estrutura HTML do jogo README.md # Documentação do projeto
      
 
